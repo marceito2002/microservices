@@ -5,8 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>base_arq</module>
-  	<module>rest-api-arq</module>
-	<module>base-domain</module>
+  	<module>./base_arq</module>
+  	<module>./rest-api-arq</module>
+	<module>./base-domain</module>
   </modules>
 </project>
